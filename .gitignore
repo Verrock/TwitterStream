@@ -1,4 +1,5 @@
 data/*.wt
 journal/*
-diagnoctic.data/*
-.mongodb/*_log
+diagnostic.data/*
+.mongodb/mongosh/*_log
+.idea
