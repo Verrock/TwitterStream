@@ -1,0 +1,4 @@
+data/*.wt
+journal/*
+diagnoctic.data/*
+.mongodb/*_log

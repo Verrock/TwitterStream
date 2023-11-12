@@ -1,0 +1,6 @@
+pymongo
+pymongo[srv]
+streamlit
+pandas
+matplotlib
+seaborn

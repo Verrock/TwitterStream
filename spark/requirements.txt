@@ -1,0 +1,4 @@
+pyspark
+vaderSentiment
+pymongo
+pymongo[srv]
